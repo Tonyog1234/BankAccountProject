@@ -28,9 +28,9 @@ Each client can have multiple accounts in one bank.
 -List of accounts  
 
 # Typical operation
--Add, delete, search, and display a customer's attributes.  
 -Add, delete, search, and display a account's attributes.  
 -Add, delete, search, and display a bank's attributes.  
+-Add, delete, search, and display a customer's attributes.  
 
 # Concepts  
 -Abstract Class  
