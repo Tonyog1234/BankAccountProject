@@ -1,7 +1,8 @@
 # BankAccountProject
 
 This project is to create a banking management system for tracking clients' records.  
-There are three types of accounts: Savings, chequing, and credit card account. Each client can have multiple accounts in one bank.
+There are three types of accounts: Savings, chequing, and credit card account. 
+Each client can have multiple accounts in one bank.
 
 # Account Attributes  
 -Account number  
