@@ -32,4 +32,9 @@ Each client can have multiple accounts in one bank.
 -Add, delete, search, and display a account's attributes.  
 -Add, delete, search, and display a bank's attributes.  
 
-# Concepts
+# Concepts  
+-Abstract Class  
+-Pointer  
+-Class Composition  
+-Inheritance  
+-Polymorphism  
